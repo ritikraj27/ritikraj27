@@ -3,22 +3,24 @@
 <!-- ✅ HEADER — waving, confirmed working -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090c10,40:003566,80:0077b6,100:00b4d8&height=200&section=header&text=RITIK%20RAJ&fontSize=72&fontColor=caf0f8&animation=fadeIn&fontAlignY=45"/>
 
-<!-- ✅ TYPING SVG — plain ASCII only, no emoji in lines= -->
+<!-- ✅ TYPING SVG — plain ASCII ONLY, zero emoji, zero special unicode -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2600&pause=800&color=00B4D8&center=true&vCenter=true&width=820&lines=ML+Engineer+%7C+AI+%26+LLM+Engineer+%7C+IIT+Kharagpur;Building+Nexon+--+Agentic+AI+Operating+System;RAG+Pipelines+%7C+LoRA+Fine-Tuning+%7C+Computer+Vision;93.6%25+Fraud+Recall+%7C+91.1%25+RAG+Accuracy;GATE+2025+--+95.9+Percentile+%7C+Top+4.1%25+Nationally;Turning+Raw+Data+into+Production-Grade+AI+Systems" alt="Typing SVG"/>
 
 <br/><br/>
 
-<!-- ✅ CODING GIF — github CDN, never fails -->
+<!-- ✅ CODING GIF — GitHub CDN, always loads -->
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280"/>
 
 <br/><br/>
 
-<!-- ✅ BADGES — shields.io always works -->
+<!-- ✅ SOCIAL BADGES — shields.io always works -->
 <a href="https://linkedin.com/in/ritikraj27"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 &nbsp;
 <a href="https://github.com/ritikraj27"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 &nbsp;
-<a href="mailto:ritikraj7320@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.facebook.com/profile.php?id=61556606906833"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+&nbsp;
+<a href="mailto:ritikrajkjh@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=ritikraj27&label=Profile+Views&color=0077b6&style=for-the-badge"/>
 
@@ -30,16 +32,57 @@
 
 <div align="center">
 
-<!-- ANIMATED SVG ABOUT ME CARD — pure SVG, no external service, renders on GitHub -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1&pause=99999&color=00B4D8&center=true&vCenter=true&multiline=true&repeat=false&width=780&height=280&lines=++++++++++++++++%5B+RITIK+RAJ+%7C+ML+%26+AI+ENGINEER+%7C+IIT+KHARAGPUR+%5D;+;++%F0%9F%8E%93++M.Tech+%40+IIT+Kharagpur+·+CGPA+8.58%2F10+·+GATE+2025+95.9+Percentile;++%F0%9F%8F%86++Secretary+of+Technology%2C+IIT+KGP+·+Leading+12-member+ML+team;++%F0%9F%93%8D++Kharagpur%2C+West+Bengal%2C+India;+;++%5B+BUILDING+NOW+%5D+Nexon+—+Agentic+AI+Operating+System;++%E2%86%92++10+parallel+agents+·+offline+LLM+·+multimodal+perception;++%E2%86%92++emotion-aware+prompting+·+biometric+auth+·+Whisper+ASR;+;++%5B+EXPERTISE+%5D+LLMs+·+RAG+·+LoRA%2FQLoRA+·+CV+·+FastAPI+·+PyTorch" alt="About Me"/>
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║          R I T I K   R A J   //   ML  x  AI  ENGINEER                  ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║   Education  :  M.Tech @ IIT Kharagpur           CGPA : 8.58 / 10      ║
+║   GATE 2025  :  95.9 Percentile                  Top  : 4.1% Nationally ║
+║   Role       :  Secretary of Technology, IIT KGP  Team : 12-member ML   ║
+║   Location   :  Kharagpur, West Bengal, India                            ║
+║                                                                          ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║   BUILDING   -->  Nexon - Agentic AI Operating System  [2025-2026]      ║
+║               |                                                          ║
+║               |-- 10 specialized parallel agents                         ║
+║               |   ( email, calendar, files, web, system control )        ║
+║               |                                                          ║
+║               |-- Multimodal Perception Layer                            ║
+║               |   ( facial emotion + gesture + voice stress analysis )   ║
+║               |                                                          ║
+║               |-- Emotion-aware LLM prompting via Ollama                 ║
+║               |-- On-device biometric face authentication                ║
+║               `-- Whisper ASR  |  Fully offline  |  Zero cloud           ║
+║                                                                          ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║   EXPERTISE                                                              ║
+║   LLMs       :  LoRA / QLoRA  |  HuggingFace  |  Ollama  |  Whisper    ║
+║   RAG         :  LangChain  |  FAISS  |  sentence-transformers           ║
+║   Vision      :  OpenCV  |  MediaPipe  |  YOLO v8  |  PyTorch           ║
+║   ML/Data     :  XGBoost  |  scikit-learn  |  TensorFlow  |  Pandas     ║
+║   Deploy      :  FastAPI  |  Docker  |  Electron  |  SQLite              ║
+║                                                                          ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║   RESULTS                                                                ║
+║   Fraud Recall      93.6%   -->  $640K losses prevented                  ║
+║   RAG Accuracy      91.1%   -->  100K records, 45 OEMs                   ║
+║   GPU Cost Down     75%     -->  via LoRA / QLoRA fine-tuning            ║
+║   Task Automation   65%     -->  via Nexon agentic OS                    ║
+║                                                                          ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║   LEARNING NOW  -->  LangGraph  |  AutoGen  |  Agentic Architectures    ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
-<br/>
-
 <div align="center">
-
-<!--  SKILL BADGES WITH LEVELS -->
 
 ![Python](https://img.shields.io/badge/Python-Expert-3670A0?style=flat-square&logo=python&logoColor=ffdd54&labelColor=0a1628)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Expert-EE4C2C?style=flat-square&logo=pytorch&logoColor=white&labelColor=0a1628)
@@ -105,7 +148,7 @@ Hybrid RAG & LLM pipeline for automotive fault diagnosis across **100K records �
 ### 💳 Credit Card Fraud Detection
 `2024 · XGBoost · scikit-learn · SMOTE · Pandas · Optuna`
 
-End-to-end ML pipeline on **100K transactions** — EDA, SMOTE class balancing, XGBoost with Optuna tuning. Full ROC / PR evaluation. Deployed as REST API with real-time scoring.
+End-to-end ML pipeline on **100K transactions** — EDA, SMOTE class balancing, XGBoost with Optuna hyperparameter tuning. Full ROC / PR evaluation. Deployed as REST API with real-time scoring.
 
 ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
@@ -260,15 +303,19 @@ If you're building something ambitious in AI, ML, or intelligent systems — and
 <div align="center">
 
 <a href="https://linkedin.com/in/ritikraj27">
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://github.com/ritikraj27">
-<img src="https://img.shields.io/badge/GitHub-View%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-&nbsp;&nbsp;
-<a href="mailto:ritikraj7320@gmail.com">
-<img src="https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+&nbsp;
+<a href="https://www.facebook.com/profile.php?id=61556606906833">
+<img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:ritikrajkjh@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-ritikrajkjh%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
