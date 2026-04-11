@@ -1,27 +1,30 @@
 <div align="center">
 
-<!-- HEADER — short URL, no desc=, no emoji, proven pattern -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090c10,40:003566,80:0077b6,100:00b4d8&height=180&section=header&text=RITIK%20RAJ&fontSize=72&fontColor=caf0f8&animation=fadeIn&fontAlignY=45"/>
+<!-- ✅ HEADER — waving type ONLY, confirmed working -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090c10,40:003566,80:0077b6,100:00b4d8&height=200&section=header&text=RITIK%20RAJ&fontSize=72&fontColor=caf0f8&animation=fadeIn&fontAlignY=45"/>
 
-<!-- SUBTITLE BAR — separate short call -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:090c10,100:0a2744&height=38&text=ML%20Engineer%20%7C%20AI%20%26%20LLM%20Engineer%20%7C%20Data%20Analyst%20%7C%20Industrial%20Engineer&fontSize=15&fontColor=90e0ef&fontAlignY=65"/>
+</div>
 
-<br/>
+<div align="center">
 
-<!-- CODING GIF — GitHub's own CDN, never fails -->
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300"/>
-
-<br/>
-
-<!-- TYPING SVG — plain ASCII only, no emoji in lines= -->
+<!-- ✅ TYPING SVG — plain ASCII, no emoji in lines= parameter -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2600&pause=800&color=00B4D8&center=true&vCenter=true&width=820&lines=ML+Engineer+%7C+AI+%26+LLM+Engineer+%7C+IIT+Kharagpur;Building+Nexon+--+Agentic+AI+Operating+System;RAG+Pipelines+%7C+LoRA+Fine-Tuning+%7C+Computer+Vision;93.6%25+Fraud+Recall+%7C+91.1%25+RAG+Accuracy;GATE+2025+--+95.9+Percentile+%7C+Top+4.1%25+Nationally;Turning+Raw+Data+into+Production-Grade+AI+Systems" alt="Typing SVG"/>
 
 <br/><br/>
 
+<!-- ✅ CODING GIF — github's own CDN, never fails -->
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280"/>
+
+<br/><br/>
+
+<!-- ✅ BADGES — shields.io always works -->
 <a href="https://linkedin.com/in/ritikraj27"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 &nbsp;
 <a href="https://github.com/ritikraj27"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 &nbsp;
+<a href="mailto:ritikraj7320@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+&nbsp;
+<!-- ✅ komarev confirmed working -->
 <img src="https://komarev.com/ghpvc/?username=ritikraj27&label=Profile+Views&color=0077b6&style=for-the-badge"/>
 
 </div>
@@ -30,86 +33,53 @@
 
 ## ⚡ About Me
 
-<table>
-<tr>
-<td valign="top" width="55%">
+<br/>
 
-```python
-class RitikRaj:
+<div align="center">
 
-    # ── Identity ──────────────────────────────
-    name       = "Ritik Raj"
-    roles      = ["ML Engineer",
-                  "AI / LLM Engineer",
-                  "Data Analyst",
-                  "Industrial Engineer"]
-    education  = "M.Tech @ IIT Kharagpur"
-    cgpa       = 8.58
-    gate_2025  = "95.9 Percentile | Top 4.1%"
-    location   = "Kharagpur, West Bengal, India"
-    leadership = "Secretary of Technology, IIT KGP"
+<!-- BIG IMPACT NUMBERS — pure markdown, zero external deps, always renders -->
 
-    # ── Currently Building ────────────────────
-    project = "Nexon — Agentic AI OS"
-    agents  = 10   # specialized parallel agents
-    stack   = ["Python", "FastAPI", "Electron",
-               "Ollama", "Whisper", "MediaPipe"]
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+|:---:|:---:|:---:|:---:|
+| **`93.6%`** | **`91.1%`** | **`↓75%`** | **`↓65%`** |
+| Fraud Recall | RAG Accuracy | GPU Cost Cut | Task Automation |
+| **`8.58`** | **`95.9`** | **`10`** | **`12`** |
+| IIT KGP CGPA | GATE Percentile | Nexon Agents | ML Team Size |
 
-    # ── Verified Results ──────────────────────
-    impact = {
-        "fraud_recall" : "93.6%  → $640K saved",
-        "rag_accuracy" : "91.1%  → 100K records",
-        "gpu_savings"  : "75%    → LoRA/QLoRA",
-        "task_savings" : "65%    → via Nexon",
-    }
+</div>
 
-    def hire_me(self):
-        return "Let's build something great 🚀"
+<br/>
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                         RITIK RAJ  //  ML × AI ENGINEER             ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  🎓  M.Tech · IIT Kharagpur             CGPA: 8.58 / 10             ║
+║  🏆  GATE 2025 · 95.9 Percentile        Top 4.1% Nationally         ║
+║  📍  Kharagpur, West Bengal, India                                   ║
+║  🔭  Secretary of Technology · IIT KGP  (12-member ML team)         ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  CURRENTLY BUILDING  →  Nexon · Agentic AI Operating System         ║
+║  ├─ 10 specialized parallel agents  (email, calendar, files ...)     ║
+║  ├─ Fully offline · Ollama LLM · Multimodal perception               ║
+║  └─ Emotion-aware prompting · Biometric auth · Whisper ASR           ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  EXPERTISE                                                           ║
+║  ├─ LLM Fine-tuning  : LoRA · QLoRA · HuggingFace · Ollama          ║
+║  ├─ RAG Systems      : LangChain · FAISS · sentence-transformers     ║
+║  ├─ Computer Vision  : OpenCV · MediaPipe · YOLO · PyTorch           ║
+║  ├─ ML Engineering   : XGBoost · scikit-learn · TensorFlow           ║
+║  └─ Deployment       : FastAPI · Docker · Electron · SQLite          ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  STUDYING NOW  →  LangGraph · AutoGen · Agentic AI Architectures     ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-</td>
-<td valign="top" width="45%" align="center">
+</div>
 
 <br/>
-
-🎓 &nbsp; **IIT Kharagpur** — M.Tech
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CGPA: **8.58 / 10**
-
-<br/>
-
-🏆 &nbsp; **GATE 2025**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 95.9 Percentile · Top **4.1%** Nationally
-
-<br/>
-
-🤖 &nbsp; **Nexon** — Agentic AI OS
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10 agents · Offline · Multimodal
-
-<br/>
-
-📍 &nbsp; Kharagpur, West Bengal, India
-
-<br/>
-
-🔭 &nbsp; **Learning:** LangGraph · AutoGen
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Agentic Architectures
-
-<br/>
-
-💬 &nbsp; **Ask me about:** LLMs · RAG
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PyTorch · FastAPI · OpenCV
-
-<br/>
-
-![Python](https://img.shields.io/badge/Python-Expert-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-Expert-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-Advanced-1C3C3C?style=flat-square)
-![FastAPI](https://img.shields.io/badge/FastAPI-Advanced-005571?style=flat-square&logo=fastapi)
-![OpenCV](https://img.shields.io/badge/OpenCV-Advanced-27338e?style=flat-square&logo=opencv&logoColor=white)
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -118,35 +88,35 @@ class RitikRaj:
 <div align="center">
 <table>
 
-<!-- ── ROW 1 ── -->
 <tr>
 <td width="50%" valign="top" align="left">
 
 ### 🖥️ Nexon — Agentic AI Operating System
-`Personal Project · 2025–2026`
+`Python · FastAPI · Electron · Ollama · Whisper · MediaPipe · SQLite · asyncio`
 
-Full-stack **offline desktop AI assistant** routing natural language to **10 specialized parallel agents** (email, calendar, files, web scraping, system control) with asyncio execution and persistent semantic memory graph.
+Full-stack **offline desktop AI assistant** routing natural language to **10 specialized parallel agents** — email, calendar, file management, web scraping, system control — with asyncio execution and a persistent semantic memory graph.
 
-**Multimodal perception layer** — real-time facial emotion detection, hand gesture recognition, and voice stress analysis feeding into emotion-aware LLM prompting. On-device biometric face authentication. Fully offline via Ollama.
+**Multimodal perception:** real-time facial emotion detection, hand gesture recognition, and voice stress analysis → emotion-aware LLM prompting. On-device biometric face authentication. Fully private, zero cloud dependency.
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
 ![Electron](https://img.shields.io/badge/Electron-2B2E3B?style=flat-square&logo=electron&logoColor=9FEAF9)
 ![Ollama](https://img.shields.io/badge/Ollama-333?style=flat-square)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0F9D58?style=flat-square&logo=google&logoColor=white)
 ![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0F9D58?style=flat-square&logo=google&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405e?style=flat-square&logo=sqlite&logoColor=white)
-![asyncio](https://img.shields.io/badge/asyncio-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![asyncio](https://img.shields.io/badge/asyncio-3670A0?style=flat-square)
+![sentence-transformers](https://img.shields.io/badge/sentence--transformers-FF6B35?style=flat-square)
 
-> **🎯 ↓ 65% manual task execution time · 10 agents · fully offline**
+> **🎯 ↓65% manual task execution · 10 agents · fully offline · 2025–2026**
 
 </td>
 <td width="50%" valign="top" align="left">
 
 ### 🚗 AI Vehicle Diagnostics — RAG + LLM
-`AI / ML Project · 2025`
+`RAG · LoRA/QLoRA · HuggingFace · FastAPI · PyTorch · sentence-transformers`
 
-Hybrid RAG & LLM pipeline for automotive fault diagnosis across **100K records · 45 OEMs · 25 fault categories** with LoRA / QLoRA fine-tuning on HuggingFace models. Semantic chunking + re-ranking retrieval pipeline.
+Hybrid RAG & LLM pipeline for automotive fault diagnosis across **100K records · 45 OEMs · 25 fault categories**. Semantic chunking + re-ranking retrieval. LoRA / QLoRA fine-tuning cut GPU cost by 75% while maintaining 91.1% diagnostic accuracy.
 
 ![RAG](https://img.shields.io/badge/RAG-0077b6?style=flat-square)
 ![LoRA/QLoRA](https://img.shields.io/badge/LoRA%2FQLoRA-ff6b35?style=flat-square)
@@ -155,19 +125,18 @@ Hybrid RAG & LLM pipeline for automotive fault diagnosis across **100K records �
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![sentence-transformers](https://img.shields.io/badge/sentence--transformers-FF6B35?style=flat-square)
 
-> **🎯 91.1% accuracy · ↓75% GPU cost via QLoRA**
+> **🎯 91.1% accuracy · ↓75% GPU cost · 100K records · 45 OEMs**
 
 </td>
 </tr>
 
-<!-- ── ROW 2 ── -->
 <tr>
 <td width="50%" valign="top" align="left">
 
 ### 💳 Credit Card Fraud Detection
-`ML Project · 2024`
+`XGBoost · scikit-learn · SMOTE · Pandas · Optuna`
 
-End-to-end pipeline on **100K transactions** — EDA, SMOTE oversampling, XGBoost with Optuna hyperparameter tuning, full ROC / PR analysis. Deployed as REST API.
+End-to-end ML pipeline on **100K transactions** — exploratory analysis, SMOTE class balancing, XGBoost with Optuna hyperparameter tuning. Full ROC / PR curve evaluation. Deployed as REST API.
 
 ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
@@ -181,28 +150,27 @@ End-to-end pipeline on **100K transactions** — EDA, SMOTE oversampling, XGBoos
 <td width="50%" valign="top" align="left">
 
 ### 👁️ CV Multi-Worker Productivity Monitor
-`Computer Vision · 2024`
+`OpenCV · MediaPipe · NumPy · Python`
 
-Real-time **4K CCTV pipeline** tracking 12 simultaneous workers via MediaPipe 21-joint hand landmark detection. Custom productivity scoring algorithm.
+Real-time **4K CCTV pipeline** tracking 12 simultaneous workers using MediaPipe 21-joint hand landmark detection. Custom productivity scoring and alert system running at 25 FPS.
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0F9D58?style=flat-square&logo=google&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
-> **🎯 25 FPS · 65% avg productivity surfaced**
+> **🎯 25 FPS · 12 workers · 65% avg productivity surfaced**
 
 </td>
 </tr>
 
-<!-- ── ROW 3 ── -->
 <tr>
 <td width="50%" valign="top" align="left">
 
 ### 🏭 Manufacturing Failure Prediction
-`ML Project · 2024`
+`scikit-learn · Random Forest · SVM · KNN · SHAP`
 
-Benchmarked **5 ML classifiers** on 10K sensor records identifying safe temperature & RPM thresholds. Full SHAP feature importance analysis.
+Benchmarked **5 ML classifiers** on 10K sensor records to identify safe temperature & RPM operating thresholds. SHAP-based feature importance for interpretability.
 
 ![Random Forest](https://img.shields.io/badge/Random%20Forest-3a7d44?style=flat-square)
 ![SVM](https://img.shields.io/badge/SVM-e63946?style=flat-square)
@@ -215,16 +183,16 @@ Benchmarked **5 ML classifiers** on 10K sensor records identifying safe temperat
 <td width="50%" valign="top" align="left">
 
 ### ✋ HandGestureAI — Real-time HCI
-`Computer Vision · 2024`
+`MediaPipe · CNN · OpenCV · Python`
 
-Real-time hand gesture recognition via **MediaPipe + CNN** for contactless HCI — maps live gestures to system-level actions with sub-50ms latency.
+Real-time hand gesture recognition using **MediaPipe + CNN** for contactless human-computer interaction — maps live gestures to system-level actions with sub-50ms latency.
 
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0F9D58?style=flat-square&logo=google&logoColor=white)
 ![CNN](https://img.shields.io/badge/CNN-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
-> **🎯 Real-time gesture-to-action · sub-50ms latency**
+> **🎯 Real-time · sub-50ms latency**
 
 </td>
 </tr>
@@ -256,7 +224,7 @@ Real-time hand gesture recognition via **MediaPipe + CNN** for contactless HCI �
 ![LoRA QLoRA](https://img.shields.io/badge/LoRA%20%2F%20QLoRA-ff6b35?style=for-the-badge)
 ![Whisper](https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-**ML / DL**
+**ML / DL Frameworks**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
@@ -269,14 +237,6 @@ Real-time hand gesture recognition via **MediaPipe + CNN** for contactless HCI �
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![YOLO v8](https://img.shields.io/badge/YOLO%20v8-00FFFF?style=for-the-badge)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0F9D58?style=for-the-badge&logo=google&logoColor=white)
-
-**Data & Visualization**
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
 **Databases & Deployment**
 
@@ -302,47 +262,34 @@ Real-time hand gesture recognition via **MediaPipe + CNN** for contactless HCI �
 
 <div align="center">
 
-<!--
-  NOTE: github-readme-stats and github-profile-trophy are community
-  services that rate-limit new/small accounts. If the cards below
-  still show as broken images, fork github-readme-stats and deploy
-  your own Vercel instance (free, 5 min) — then swap the domain.
--->
+<!-- ✅ streak-stats.demolab.com — CONFIRMED WORKING from screenshots -->
+<img src="https://streak-stats.demolab.com?user=ritikraj27&theme=tokyonight&hide_border=true" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ritikraj27&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
-&nbsp;
-<img src="https://streak-stats.demolab.com?user=ritikraj27&theme=tokyonight&hide_border=true" height="170"/>
+<br/><br/>
 
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikraj27&theme=tokyonight&hide_border=true&layout=compact&langs_count=10" height="160"/>
-
-</div>
-
-<div align="center">
-
+<!-- ✅ activity graph — CONFIRMED WORKING from screenshots -->
 <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=ritikraj27&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
 ---
 
-## 🏆 Achievements
+## 🗂️ Summary
 
 <div align="center">
 
-| 🎯 Metric | 📊 Result | 💼 Context |
-|:---|:---:|:---|
-| Fraud Detection Recall | **93.6%** | 100K transaction pipeline |
-| RAG Pipeline Accuracy | **91.1%** | 100K records · 45 OEMs |
-| GPU Cost Reduction | **↓ 75%** | LoRA / QLoRA fine-tuning |
-| Manual Task Reduction | **↓ 65%** | Nexon Agentic AI OS |
-| Real-time Tracking | **25 FPS** | 4K · 12 workers · MediaPipe |
-| Manufacturing Accuracy | **~99%** | 5 classifiers · 10K sensors |
-| GATE 2025 Percentile | **95.9%** | Top 4.1% Nationally |
-| Academic CGPA | **8.58 / 10** | IIT Kharagpur M.Tech |
+| | |
+|:---|:---|
+| 🎓 **Education** | M.Tech · IIT Kharagpur · CGPA **8.58 / 10** |
+| 🏆 **GATE 2025** | **95.9 Percentile** · Top 4.1% Nationally |
+| 🔭 **Leadership** | Secretary of Technology · IIT KGP · 12-member ML team |
+| 🤖 **Flagship Project** | Nexon — Agentic AI OS · 10 agents · offline · multimodal |
+| 📊 **Fraud Detection** | **93.6% recall** · $640K losses prevented · 100K transactions |
+| 🚗 **Automotive RAG** | **91.1% accuracy** · 100K records · 45 OEMs · ↓75% GPU cost |
+| 👁️ **Computer Vision** | **25 FPS** · 4K · 12-worker real-time productivity tracking |
+| 🌱 **Currently Learning** | LangGraph · AutoGen · Agentic AI Architectures |
+| 💬 **Ask me about** | LLMs · RAG · PyTorch · FastAPI · Computer Vision |
+| 📍 **Location** | Kharagpur, West Bengal, India |
 
 </div>
 
@@ -359,10 +306,14 @@ Real-time hand gesture recognition via **MediaPipe + CNN** for contactless HCI �
 <a href="https://github.com/ritikraj27">
 <img src="https://img.shields.io/badge/GitHub-View%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+&nbsp;&nbsp;
+<a href="mailto:ritikraj7320@gmail.com">
+<img src="https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
 <br/>
 
-<!-- FOOTER — same short URL pattern as the working header -->
+<!-- ✅ FOOTER — waving type, confirmed working, short URL -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0077b6,100:090c10&height=130&section=footer&text=Open%20to%20Opportunities%20.%20Lets%20Build%20Something%20Extraordinary&fontSize=15&fontColor=caf0f8&fontAlignY=65"/>
