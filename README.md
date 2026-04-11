@@ -1,31 +1,28 @@
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020818,50:0a2744,100:0077b6&height=200&section=header&text=RITIK%20RAJ&fontSize=72&fontColor=00d4ff&animation=twinkling&fontAlignY=40&desc=ML%20Engineer%20·%20AI%20%26%20LLM%20Engineer%20·%20Data%20Analyst%20·%20Industrial%20Engineer&descAlignY=62&descSize=15&descColor=90e0ef" width="100%" alt="Header"/>
+<!-- HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:003566,60:0077b6,100:00b4d8&height=220&section=header&text=RITIK%20RAJ&fontSize=80&fontColor=caf0f8&animation=fadeIn&fontAlignY=38&desc=ML%20Engineer%20%7C%20AI%20%26%20LLM%20Engineer%20%7C%20Data%20Analyst%20%7C%20Industrial%20Engineer&descAlignY=60&descColor=90e0ef&descSize=17"/>
 
 </div>
 
 <div align="center">
 
-<!-- ANIMATED TYPING -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=00D4FF&background=00000000&center=true&vCenter=true&multiline=false&width=860&lines=🤖+ML+Engineer+%7C+AI+%26+LLM+Engineer+%7C+IIT+Kharagpur;🚀+Building+Nexon+—+Agentic+AI+OS+with+4+Specialized+Agents;🧠+RAG+Pipelines+%7C+LLM+Fine-Tuning+%7C+Computer+Vision;📊+93.6%25+Fraud+Recall+·+91.1%25+RAG+Accuracy+·+75%25+GPU+Cost+Reduction;🏆+GATE+2025+—+95.9+Percentile+%7C+Top+4.1%25+Nationally;⚡+Turning+Raw+Data+into+Production-Grade+AI+Systems" alt="Typing SVG" />
+<!-- TYPING SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&width=900&lines=🤖+ML+Engineer+%7C+AI+%26+LLM+Engineer+%7C+IIT+Kharagpur;🚀+Building+Nexon+—+Agentic+AI+OS;🧠+RAG+Pipelines+%7C+LoRA+Fine-Tuning+%7C+Computer+Vision;📊+93.6%25+Fraud+Recall+·+91.1%25+RAG+Accuracy;🏆+GATE+2025+—+95.9+Percentile+%7C+Top+4.1%25+Nationally;⚡+Turning+Raw+Data+into+Production-Grade+AI" alt="Typing SVG" />
+
+<br/><br/>
+
+<a href="https://linkedin.com/in/ritikraj27">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/ritikraj27">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=ritikraj27&label=Profile+Views&color=0077b6&style=for-the-badge"/>
 
 </div>
-
-<br/>
-
-<!-- SOCIAL BADGES - animated pulse effect via shields -->
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a2744)](https://linkedin.com/in/ritikraj27)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-00d4ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0a2744)](https://github.com/ritikraj27)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-Hire%20Me-ff6b35?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a2744)](mailto:ritikraj27@example.com)
-
-</div>
-
-<br/>
 
 ---
 
@@ -35,85 +32,130 @@
 class RitikRaj:
     name         = "Ritik Raj"
     role         = ["ML Engineer", "AI/LLM Engineer", "Data Analyst", "Industrial Engineer"]
-    education    = "M.Tech @ IIT Kharagpur · CGPA: 8.58/10"
-    gate_2025    = "95.9 Percentile · Top 4.1% Nationally"
+    education    = "M.Tech @ IIT Kharagpur  ·  CGPA: 8.58 / 10"
+    gate_2025    = "95.9 Percentile  ·  Top 4.1% Nationally"
     location     = "Kharagpur, West Bengal, India"
-    
-    currently_building = "Nexon — Intent-driven Agentic AI OS"
-    agents             = ["Email Agent", "Calendar Agent", "Web Search Agent", "Desktop Automation"]
-    
-    key_metrics  = {
-        "fraud_recall"      : "93.6%  →  $640K losses prevented",
-        "rag_accuracy"      : "91.1%  →  automotive diagnostics at scale",
-        "gpu_cost_reduction": "75%    →  LoRA/QLoRA fine-tuning",
-        "workflow_reduction": "70%    →  manual task automation via Nexon",
+    leadership   = "Secretary of Technology, IIT Kharagpur  (12-member ML team)"
+
+    building     = "Nexon — Intent-driven Agentic AI OS"
+    agents       = ["📧 Email", "📅 Calendar", "🔍 Web Search", "🖥️ Desktop Automation"]
+
+    results      = {
+        "fraud_recall"       : "93.6%   →  $640K losses prevented",
+        "rag_accuracy"       : "91.1%   →  automotive diagnostics at scale (100K records)",
+        "gpu_cost_reduction" : "↓ 75%   →  via LoRA / QLoRA fine-tuning",
+        "workflow_reduction" : "↓ 70%   →  manual tasks eliminated by Nexon",
     }
-    
-    learning     = ["LoRA/QLoRA fine-tuning", "LangGraph", "AutoGen", "Agentic AI architectures"]
-    leadership   = "Secretary of Technology, IIT Kharagpur (12-member ML team)"
-    
+
+    currently_learning = ["LangGraph", "AutoGen", "LoRA/QLoRA", "Agentic AI architectures"]
+
     def say_hello(self):
-        print("Let's build something extraordinary together! 🚀")
+        print("Open to opportunities — let's build something extraordinary! 🚀")
 ```
 
 ---
 
 ## 🚀 Featured Projects
 
+<br/>
+
+<div align="center">
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
 ### 🤖 Nexon — Agentic AI OS
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ritikraj27&repo=nexon&theme=tokyonight&hide_border=true&bg_color=020818&title_color=00d4ff&icon_color=00d4ff&text_color=90e0ef)](https://github.com/ritikraj27)
 
-**Intent-driven OS** routing natural language commands to 4 specialized agents with persistent contextual memory and tool-use.
+**Intent-driven OS** routing NL commands to 4 specialized agents (Email · Calendar · Web Search · Desktop Automation) with persistent contextual memory and tool-use.
 
-`Python` `FastAPI` `LLMs` `Agentic AI` `NLP`
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-00b4d8?style=flat-square)
 
-🎯 **↓70% manual task time**
+**🎯 ↓70% manual task time**
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-### 🚗 AI Vehicle Diagnostics — RAG+LLM
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ritikraj27&repo=vehicle-rag&theme=tokyonight&hide_border=true&bg_color=020818&title_color=00d4ff&icon_color=00d4ff&text_color=90e0ef)](https://github.com/ritikraj27)
+### 🚗 AI Vehicle Diagnostics — RAG + LLM
 
-**Hybrid RAG & LLM pipeline** for automotive diagnostics across 100K records, 45 OEMs, 25 fault categories with LoRA/QLoRA fine-tuning.
+**Hybrid RAG & LLM pipeline** for automotive fault diagnosis across 100K records, 45 OEMs, 25 fault categories with LoRA/QLoRA fine-tuning on HuggingFace models.
 
-`RAG` `LoRA` `QLoRA` `HuggingFace` `FastAPI`
+![RAG](https://img.shields.io/badge/RAG-0077b6?style=flat-square)
+![LoRA](https://img.shields.io/badge/LoRA%2FQLoRA-ff6b35?style=flat-square)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
-🎯 **91.1% accuracy · ↓75% GPU cost**
+**🎯 91.1% accuracy · ↓75% GPU cost**
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
 ### 💳 Credit Card Fraud Detection
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ritikraj27&repo=fraud-detection&theme=tokyonight&hide_border=true&bg_color=020818&title_color=00d4ff&icon_color=00d4ff&text_color=90e0ef)](https://github.com/ritikraj27)
 
-End-to-end ML pipeline on **100K transactions** with EDA, SMOTE, XGBoost and hyperparameter tuning.
+End-to-end ML pipeline on **100K transactions** with EDA, SMOTE oversampling, XGBoost and Optuna hyperparameter tuning. Full ROC/PR curve analysis.
 
-`XGBoost` `scikit-learn` `SMOTE` `Pandas`
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![SMOTE](https://img.shields.io/badge/SMOTE-0d1117?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Optuna](https://img.shields.io/badge/Optuna-00b4d8?style=flat-square)
 
-🎯 **93.6% recall · $640K losses prevented**
+**🎯 93.6% recall · $640K losses prevented**
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
 ### 👁️ CV Multi-Worker Productivity Monitor
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ritikraj27&repo=cv-productivity&theme=tokyonight&hide_border=true&bg_color=020818&title_color=00d4ff&icon_color=00d4ff&text_color=90e0ef)](https://github.com/ritikraj27)
 
-Real-time **4K CCTV pipeline** tracking 12 simultaneous workers via MediaPipe 21-joint hand landmark detection.
+Real-time **4K CCTV pipeline** tracking 12 simultaneous workers via MediaPipe 21-joint hand landmark detection at 25 FPS.
 
-`OpenCV` `MediaPipe` `NumPy` `Python`
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0F9D58?style=flat-square&logo=google&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
-🎯 **25 FPS · 65% avg productivity surfaced**
+**🎯 25 FPS · 65% avg productivity surfaced**
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+### 🏭 Manufacturing Failure Prediction
+
+Benchmarked **5 ML classifiers** on 10K sensor records identifying safe temperature & RPM thresholds with full feature importance analysis.
+
+![Random Forest](https://img.shields.io/badge/Random%20Forest-3a7d44?style=flat-square)
+![SVM](https://img.shields.io/badge/SVM-e63946?style=flat-square)
+![KNN](https://img.shields.io/badge/KNN-457b9d?style=flat-square)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+**🎯 ~99% classification accuracy**
+
+</td>
+<td width="50%" align="center">
+
+### ✋ HandGestureAI — Real-time HCI
+
+Real-time hand gesture recognition using **MediaPipe + CNN** for contactless human-computer interaction — controls system actions via gestures live.
+
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0F9D58?style=flat-square&logo=google&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+
+**🎯 Real-time gesture-to-action pipeline**
 
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
@@ -122,63 +164,75 @@ Real-time **4K CCTV pipeline** tracking 12 simultaneous workers via MediaPipe 21
 ### 🗣️ Languages
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-★★★★★-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=0a2744)
-![SQL](https://img.shields.io/badge/SQL-★★★★☆-00758F?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0a2744)
-![R](https://img.shields.io/badge/R-★★★☆☆-276DC3?style=for-the-badge&logo=r&logoColor=white&labelColor=0a2744)
-![MATLAB](https://img.shields.io/badge/MATLAB-★★★☆☆-e16737?style=for-the-badge&logo=mathworks&logoColor=white&labelColor=0a2744)
-![Bash](https://img.shields.io/badge/Bash-★★★☆☆-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=0a2744)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-e16737?style=for-the-badge&logo=mathworks&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 </div>
 
 ### 🧠 LLM & Generative AI
 <div align="center">
 
-![LangChain](https://img.shields.io/badge/LangChain-Expert-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=00d4ff&labelColor=0a2744)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-Expert-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=0a2744)
-![OpenAI](https://img.shields.io/badge/OpenAI-Expert-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=0a2744)
-![Ollama](https://img.shields.io/badge/Ollama-Proficient-333333?style=for-the-badge&logo=ollama&logoColor=white&labelColor=0a2744)
-![RAG](https://img.shields.io/badge/RAG%20Pipelines-Expert-00d4ff?style=for-the-badge&logo=databricks&logoColor=white&labelColor=0a2744)
-![LoRA](https://img.shields.io/badge/LoRA%2FQLoRA-Advanced-ff6b35?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0a2744)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-333333?style=for-the-badge)
+![RAG Pipelines](https://img.shields.io/badge/RAG%20Pipelines-0077b6?style=for-the-badge)
+![LoRA/QLoRA](https://img.shields.io/badge/LoRA%2FQLoRA-ff6b35?style=for-the-badge)
 
 </div>
 
 ### 🤖 ML / DL Frameworks
 <div align="center">
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white&labelColor=0a2744)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white&labelColor=0a2744)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=0a2744)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=python&logoColor=white&labelColor=0a2744)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white&labelColor=0a2744)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
 
 </div>
 
 ### 👁️ Computer Vision
 <div align="center">
 
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white&labelColor=0a2744)
-![YOLO](https://img.shields.io/badge/YOLO%20v8-00FFFF?style=for-the-badge&logo=python&logoColor=black&labelColor=0a2744)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0F9D58?style=for-the-badge&logo=google&logoColor=white&labelColor=0a2744)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![YOLO v8](https://img.shields.io/badge/YOLO%20v8-00FFFF?style=for-the-badge)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0F9D58?style=for-the-badge&logo=google&logoColor=white)
+
+</div>
+
+### 📊 Data & Visualization
+<div align="center">
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
 </div>
 
 ### 🗄️ Databases & Deployment
 <div align="center">
 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&labelColor=0a2744)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white&labelColor=0a2744)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0a2744)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0a2744)
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0a2744)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white&labelColor=0a2744)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
 ### 🏭 Operations Research & Supply Chain
 <div align="center">
 
-![Lean Six Sigma](https://img.shields.io/badge/Lean%20Six%20Sigma-1a7a4a?style=for-the-badge&logo=academia&logoColor=white&labelColor=0a2744)
-![IBM CPLEX](https://img.shields.io/badge/IBM%20CPLEX-054ADA?style=for-the-badge&logo=ibm&logoColor=white&labelColor=0a2744)
+![Lean Six Sigma](https://img.shields.io/badge/Lean%20Six%20Sigma-1a7a4a?style=for-the-badge)
+![IBM CPLEX](https://img.shields.io/badge/IBM%20CPLEX-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
 
 </div>
 
@@ -188,50 +242,31 @@ Real-time **4K CCTV pipeline** tracking 12 simultaneous workers via MediaPipe 21
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ritikraj27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020818&title_color=00d4ff&icon_color=00d4ff&text_color=90e0ef&ring_color=0077b6&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ritikraj27&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 &nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com?user=ritikraj27&theme=tokyonight&hide_border=true&background=020818&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=90e0ef&dates=4a9eff&currStreakNum=ffffff&sideNums=ffffff" height="180" alt="GitHub Streak"/>
+<img height="180" src="https://streak-stats.demolab.com?user=ritikraj27&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikraj27&theme=tokyonight&hide_border=true&bg_color=020818&title_color=00d4ff&text_color=90e0ef&layout=donut&langs_count=8" height="220" alt="Top Languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikraj27&theme=tokyonight&hide_border=true&layout=compact&langs_count=10"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ritikraj27&theme=tokyo-night&bg_color=020818&color=00d4ff&line=0077b6&point=00d4ff&area=true&hide_border=true&area_color=0a2744" width="97%" alt="Contribution Graph"/>
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ritikraj27&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" width="100%" alt="GitHub Trophies"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ritikraj27&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
 ---
 
-## 📈 Impact at a Glance
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-| 🎯 Metric | 📊 Result | 💼 Project |
-|:---|:---:|:---|
-| Fraud Detection Recall | **93.6%** | Credit Card Fraud Detection |
-| RAG Pipeline Accuracy | **91.1%** | AI Vehicle Troubleshooting |
-| GPU Cost Reduction | **↓ 75%** | LoRA/QLoRA Fine-Tuning |
-| Manual Workflow Reduction | **↓ 70%** | Nexon — Agentic AI OS |
-| Real-time Tracking FPS | **25 FPS** | CV Multi-Worker Monitor |
-| Manufacturing Accuracy | **~99%** | Failure Prediction System |
-| GATE 2025 Percentile | **95.9%** | Top 4.1% Nationally |
-| Academic CGPA | **8.58/10** | IIT Kharagpur M.Tech |
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=ritikraj27&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/>
 
 </div>
 
@@ -242,24 +277,17 @@ Real-time **4K CCTV pipeline** tracking 12 simultaneous workers via MediaPipe 21
 <div align="center">
 
 <a href="https://linkedin.com/in/ritikraj27">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020818" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://github.com/ritikraj27">
-  <img src="https://img.shields.io/badge/GitHub-View%20My%20Work-00d4ff?style=for-the-badge&logo=github&logoColor=white&labelColor=020818" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-View%20My%20Work-24292e?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=ritikraj27&label=Profile+Views&color=00d4ff&style=for-the-badge&labelColor=020818" alt="Profile Views"/>
 
 </div>
 
 <br/>
 
-<!-- ANIMATED FOOTER BANNER -->
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020818,50:0a2744,100:0077b6&height=120&section=footer&text=Open%20to%20Opportunities%20·%20Let%27s%20Build%20Something%20Extraordinary&fontSize=14&fontColor=90e0ef&animation=twinkling&fontAlignY=65" width="100%" alt="Footer"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0077b6,100:0d1117&height=120&section=footer&text=Open%20to%20Opportunities%20·%20Let's%20Build%20Something%20Extraordinary&fontSize=15&fontColor=caf0f8&fontAlignY=65"/>
 </div>
