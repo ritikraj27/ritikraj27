@@ -1,20 +1,34 @@
 <div align="center">
 
-<!-- ██████████████████████████████████████████████████████ -->
-<!--           HEADER — capsule-render (SMIL animation)      -->
-<!-- ██████████████████████████████████████████████████████ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090c10,30:0a2744,60:0077b6,100:00b4d8&height=200&section=header&text=RITIK%20RAJ&fontSize=75&fontColor=caf0f8&animation=fadeIn&fontAlignY=38&desc=ML%20Engineer%20%7C%20AI%20%26%20LLM%20Engineer%20%7C%20Data%20Analyst%20%7C%20Industrial%20Engineer&descAlignY=60&descColor=90e0ef&descSize=16" />
+<!-- ════════════════════════════════════════════════════════════
+     HEADER — short URL (<250 chars), no desc=, no emoji
+     Footer proved capsule-render works; same pattern used here
+     ════════════════════════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090c10,40:003566,80:0077b6,100:00b4d8&height=180&section=header&text=RITIK%20RAJ&fontSize=72&fontColor=caf0f8&animation=fadeIn&fontAlignY=45"/>
 
-<!-- ████████████████████████████████████████████████████ -->
-<!--     TYPING SVG — demolab (SMIL animation, reliable)   -->
-<!-- ████████████████████████████████████████████████████ -->
-<a href="https://github.com/ritikraj27">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2600&pause=800&color=00B4D8&center=true&vCenter=true&width=850&lines=🤖+ML+Engineer+%7C+AI+%26+LLM+Engineer+%7C+IIT+Kharagpur;🚀+Building+Nexon+—+Intent-driven+Agentic+AI+OS;🧠+RAG+Pipelines+%7C+LoRA%2FQLoRA+Fine-Tuning+%7C+Computer+Vision;📊+93.6%25+Fraud+Recall+·+91.1%25+RAG+Accuracy+·+↓75%25+GPU+Cost;🏆+GATE+2025+—+95.9+Percentile+%7C+Top+4.1%25+Nationally;⚡+Turning+Raw+Data+into+Production-Grade+AI+Systems" alt="Typing SVG" />
-</a>
+<!-- ════════════════════════════════════════════════════════════
+     SUBTITLE LINE — separate short capsule-render call
+     ════════════════════════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:090c10,100:0a2744&height=40&text=ML%20Engineer%20%7C%20AI%20%26%20LLM%20Engineer%20%7C%20Data%20Analyst%20%7C%20Industrial%20Engineer&fontSize=15&fontColor=90e0ef&fontAlignY=65"/>
 
 <br/>
 
-<!-- SOCIAL BADGES — shields.io (always works) -->
+<!-- ════════════════════════════════════════════════════════════
+     ANIMATED GIF — GitHub's own CDN, always loads
+     ════════════════════════════════════════════════════════════ -->
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280" alt="coding"/>
+
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════
+     TYPING SVG — NO emoji in lines=, plain ASCII only
+     Emoji in URLs get mangled by GitHub's camo proxy = broken
+     ════════════════════════════════════════════════════════════ -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2600&pause=800&color=00B4D8&center=true&vCenter=true&width=820&lines=ML+Engineer+%7C+AI+%26+LLM+Engineer+%7C+IIT+Kharagpur;Building+Nexon+--+Agentic+AI+OS+with+4+Agents;RAG+Pipelines+%7C+LoRA+Fine-Tuning+%7C+Computer+Vision;93.6%25+Fraud+Recall+%7C+91.1%25+RAG+Accuracy;GATE+2025+--+95.9+Percentile+%7C+Top+4.1%25+Nationally;Turning+Raw+Data+into+Production-Grade+AI+Systems" alt="Typing SVG"/>
+
+<br/><br/>
+
+<!-- SOCIAL BADGES -->
 <a href="https://linkedin.com/in/ritikraj27"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 &nbsp;
 <a href="https://github.com/ritikraj27"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -25,12 +39,12 @@
 
 ---
 
-## ⚡ About Me
+## About Me
 
 ```python
 class RitikRaj:
 
-    # ─── Identity ─────────────────────────────────────────────
+    # ── Identity ──────────────────────────────────────────────
     name       = "Ritik Raj"
     roles      = ["ML Engineer", "AI/LLM Engineer",
                   "Data Analyst", "Industrial Engineer"]
@@ -39,41 +53,38 @@ class RitikRaj:
     location   = "Kharagpur, West Bengal, India"
     leadership = "Secretary of Technology — IIT Kharagpur (12-member ML team)"
 
-    # ─── Currently Building ───────────────────────────────────
+    # ── Currently Building ────────────────────────────────────
     project    = "Nexon — Intent-driven Agentic AI OS"
     agents     = ["Email", "Calendar", "Web Search", "Desktop Automation"]
     stack      = ["Python", "FastAPI", "LangChain", "OpenAI", "Agentic AI"]
 
-    # ─── Key Results ──────────────────────────────────────────
+    # ── Key Results ───────────────────────────────────────────
     impact = {
-        "fraud_recall"    : "93.6 %  →  $640 K losses prevented",
-        "rag_accuracy"    : "91.1 %  →  automotive diagnostics (100K records, 45 OEMs)",
-        "gpu_cost_down"   : "↓ 75 %  →  LoRA / QLoRA fine-tuning",
-        "manual_work_down": "↓ 70 %  →  Nexon agentic workflow automation",
-        "cv_throughput"   : "25 FPS  →  4K real-time 12-worker tracking",
+        "fraud_recall"    : "93.6 %  ->  $640 K losses prevented",
+        "rag_accuracy"    : "91.1 %  ->  automotive diagnostics (100K records, 45 OEMs)",
+        "gpu_cost_down"   : "down 75 %  ->  LoRA / QLoRA fine-tuning",
+        "workflow_down"   : "down 70 %  ->  Nexon agentic workflow automation",
+        "cv_throughput"   : "25 FPS   ->  4K real-time 12-worker tracking",
     }
 
-    # ─── Learning ─────────────────────────────────────────────
-    studying   = ["LangGraph", "AutoGen", "LoRA/QLoRA", "Agentic Architectures"]
+    currently_learning = ["LangGraph", "AutoGen", "LoRA/QLoRA", "Agentic Architectures"]
 
     def hire_me(self):
-        return "Open to opportunities — let's build something extraordinary 🚀"
+        return "Open to opportunities — let's build something extraordinary!"
 ```
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 <table>
-
-<!-- ── ROW 1 ── -->
 <tr>
 <td width="50%" valign="top" align="left">
 
 ### 🤖 Nexon — Agentic AI OS
 
-Intent-driven OS routing natural-language commands to **4 specialized agents** (Email · Calendar · Web Search · Desktop Automation) with persistent contextual memory and live tool-use.
+Intent-driven OS routing natural-language commands to **4 specialized agents** — Email · Calendar · Web Search · Desktop Automation — with persistent contextual memory and live tool-use.
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
@@ -100,14 +111,12 @@ Hybrid RAG & LLM pipeline for automotive fault diagnosis across **100K records �
 
 </td>
 </tr>
-
-<!-- ── ROW 2 ── -->
 <tr>
 <td width="50%" valign="top" align="left">
 
 ### 💳 Credit Card Fraud Detection
 
-End-to-end ML pipeline on **100K transactions** — EDA, SMOTE oversampling, XGBoost with Optuna hyperparameter tuning. Full ROC / PR curve analysis.
+End-to-end ML pipeline on **100K transactions** — EDA, SMOTE oversampling, XGBoost with Optuna hyperparameter tuning and full ROC / PR curve analysis.
 
 ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
@@ -133,8 +142,6 @@ Real-time **4K CCTV pipeline** tracking 12 simultaneous workers using MediaPipe 
 
 </td>
 </tr>
-
-<!-- ── ROW 3 ── -->
 <tr>
 <td width="50%" valign="top" align="left">
 
@@ -154,7 +161,7 @@ Benchmarked **5 ML classifiers** on 10K sensor records identifying safe temperat
 
 ### ✋ HandGestureAI — Real-time HCI
 
-Real-time hand gesture recognition using **MediaPipe + CNN** for contactless human-computer interaction — controls system actions via live gestures.
+Real-time hand gesture recognition using **MediaPipe + CNN** for contactless human-computer interaction — maps live gestures to system actions.
 
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0F9D58?style=flat-square&logo=google&logoColor=white)
 ![CNN](https://img.shields.io/badge/CNN-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -165,13 +172,12 @@ Real-time hand gesture recognition using **MediaPipe + CNN** for contactless hum
 
 </td>
 </tr>
-
 </table>
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -190,9 +196,9 @@ Real-time hand gesture recognition using **MediaPipe + CNN** for contactless hum
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-333333?style=for-the-badge)
 ![RAG Pipelines](https://img.shields.io/badge/RAG%20Pipelines-0077b6?style=for-the-badge)
-![LoRA / QLoRA](https://img.shields.io/badge/LoRA%20%2F%20QLoRA-ff6b35?style=for-the-badge)
+![LoRA QLoRA](https://img.shields.io/badge/LoRA%20%2F%20QLoRA-ff6b35?style=for-the-badge)
 
-**ML / DL**
+**ML / DL Frameworks**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
@@ -233,31 +239,31 @@ Real-time hand gesture recognition using **MediaPipe + CNN** for contactless hum
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ritikraj27&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=090c10&title_color=00b4d8&icon_color=00b4d8&text_color=caf0f8" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ritikraj27&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
 &nbsp;
-<img src="https://streak-stats.demolab.com?user=ritikraj27&theme=tokyonight&hide_border=true&background=090c10&ring=00b4d8&fire=ff6b35&currStreakLabel=00b4d8&sideLabels=90e0ef&dates=4a9eff&currStreakNum=ffffff&sideNums=ffffff" height="175"/>
+<img src="https://streak-stats.demolab.com?user=ritikraj27&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikraj27&theme=tokyonight&hide_border=true&bg_color=090c10&title_color=00b4d8&text_color=caf0f8&layout=compact&langs_count=10" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikraj27&theme=tokyonight&hide_border=true&layout=compact&langs_count=10" height="160"/>
 
 </div>
 
 <div align="center">
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=ritikraj27&theme=tokyo-night&bg_color=090c10&color=00b4d8&line=0077b6&point=00b4d8&area=true&hide_border=true&area_color=0a2744"/>
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=ritikraj27&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
@@ -267,7 +273,7 @@ Real-time hand gesture recognition using **MediaPipe + CNN** for contactless hum
 
 ---
 
-## 🌐 Let's Connect
+## Let's Connect
 
 <div align="center">
 
@@ -283,5 +289,7 @@ Real-time hand gesture recognition using **MediaPipe + CNN** for contactless hum
 
 <br/>
 
-<!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0077b6,100:090c10&height=130&section=footer&text=Open%20to%20Opportunities%20·%20Let's%20Build%20Something%20Extraordinary&fontSize=15&fontColor=caf0f8&fontAlignY=65"/>
+<!-- ════════════════════════════════════════════════════════════
+     FOOTER — short URL, no emoji, identical pattern to working ver
+     ════════════════════════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0077b6,100:090c10&height=130&section=footer&text=Open%20to%20Opportunities%20.%20Let%27s%20Build%20Something%20Extraordinary&fontSize=15&fontColor=caf0f8&fontAlignY=65"/>
