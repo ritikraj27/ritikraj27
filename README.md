@@ -92,9 +92,7 @@ If you're building something ambitious in AI, ML, or intelligent systems — and
 ### 🖥️ Nexon — Agentic AI Operating System
 `2025–2026 · Python · FastAPI · Electron · Ollama · Whisper · MediaPipe · SQLite · asyncio · sentence-transformers`
 
-Full-stack **offline desktop AI assistant** routing natural language to **10 specialized parallel agents** — email, calendar, file management, web scraping, system control — with asyncio execution and a persistent semantic memory graph.
-
-**Multimodal perception:** real-time facial emotion detection, hand gesture recognition, and voice stress analysis → emotion-aware LLM prompting. On-device biometric face authentication. Zero cloud dependency.
+Full-stack **offline desktop AI assistant** routing natural language to **10 specialized parallel agents** — email, calendar, files, web scraping, system control — with asyncio execution, persistent semantic memory graph, real-time multimodal perception (facial emotion, gesture, voice stress), emotion-aware LLM prompting, and on-device biometric face authentication. Zero cloud dependency.
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
