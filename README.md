@@ -49,7 +49,7 @@ If you're building something ambitious in AI, ML, or intelligent systems — and
 🎓 &nbsp; **M.Tech &nbsp;|&nbsp; Industrial Engineering and Management &nbsp;|&nbsp; IIT Kharagpur**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CGPA: **8.58 / 10**
 
-🥉 &nbsp; **B.Tech &nbsp;|&nbsp; Mechanical Engineering &nbsp;|&nbsp; Narula Institute of Technology, Agarpara &nbsp;|&nbsp; Bronze Medallist** ;&nbsp; CGPA: **8.57 / 10**
+🥉 &nbsp; **B.Tech &nbsp;|&nbsp; Mechanical Engineering &nbsp;|&nbsp; Narula Institute of Technology, Agarpara &nbsp;|&nbsp; Bronze Medallist** &nbsp; CGPA: **8.57 / 10**
 
 🏆 &nbsp; **GATE 2025** &nbsp;—&nbsp; 95.9 Percentile &nbsp;·&nbsp; Top **4.1%** Nationally
 
