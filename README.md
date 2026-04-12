@@ -14,7 +14,7 @@
 <br/><br/>
 
 <!-- ✅ SOCIAL BADGES -->
-<a href="https://linkedin.com/in/ritikraj27"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="www.linkedin.com/in/rîtîk"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 &nbsp;
 <a href="https://github.com/ritikraj27"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 &nbsp;
@@ -388,7 +388,7 @@ Real-time gesture recognition via **MediaPipe + CNN** for contactless HCI — ma
 
 <div align="center">
 
-<a href="https://linkedin.com/in/ritikraj27">
+<a href="www.linkedin.com/in/rîtîk">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
@@ -401,7 +401,7 @@ Real-time gesture recognition via **MediaPipe + CNN** for contactless HCI — ma
 </a>
 &nbsp;
 <a href="mailto:ritikrajkjh@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-ritikrajkjh%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Hire me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
