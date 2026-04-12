@@ -122,7 +122,7 @@ If you're building something ambitious in AI, ML, or intelligent systems — and
 <tr>
 <td width="50%" valign="top" align="left">
 
-### 🖥️ Nexon — Agentic AI Operating System
+### [🖥️ Nexon — Agentic AI Operating System](https://github.com/ritikraj27/nexon)
 `2025–2026 · Python · FastAPI · Electron · Ollama · Whisper · MediaPipe · SQLite · asyncio · sentence-transformers`
 
 Full-stack **offline desktop AI assistant** routing natural language to **10 specialized parallel agents** — email, calendar, files, web scraping, system control — with asyncio execution, persistent semantic memory graph, real-time multimodal perception (facial emotion, gesture, voice stress), emotion-aware LLM prompting, and on-device biometric face authentication. Zero cloud dependency.
@@ -139,10 +139,12 @@ Full-stack **offline desktop AI assistant** routing natural language to **10 spe
 
 > **🎯 ↓65% manual task execution · 10 agents · fully offline**
 
+[![View Repo](https://img.shields.io/badge/View%20Repo-%23121011?style=flat-square&logo=github&logoColor=white)](https://github.com/ritikraj27/nexon)
+
 </td>
 <td width="50%" valign="top" align="left">
 
-### 🚗 AI Vehicle Diagnostics — RAG + LLM
+### [🚗 AI Vehicle Diagnostics — RAG + LLM](https://github.com/ritikraj27/Fix_my_Car)
 `2025 · RAG · LoRA/QLoRA · HuggingFace · FastAPI · PyTorch · sentence-transformers`
 
 Hybrid RAG & LLM pipeline for automotive fault diagnosis across **100K records · 45 OEMs · 25 fault categories**. Semantic chunking + re-ranking retrieval. LoRA / QLoRA fine-tuning achieved 91.1% accuracy while cutting GPU cost by 75%.
@@ -156,6 +158,8 @@ Hybrid RAG & LLM pipeline for automotive fault diagnosis across **100K records �
 
 > **🎯 91.1% accuracy · ↓75% GPU cost · 100K records · 45 OEMs**
 
+[![View Repo](https://img.shields.io/badge/View%20Repo-%23121011?style=flat-square&logo=github&logoColor=white)](https://github.com/ritikraj27/Fix_my_Car)
+
 </td>
 </tr>
 
@@ -163,7 +167,50 @@ Hybrid RAG & LLM pipeline for automotive fault diagnosis across **100K records �
 <tr>
 <td width="50%" valign="top" align="left">
 
-### 📈 Time Series Sales Forecasting — ARIMA & LSTM
+### [🎙️ Audiobook Studio](https://github.com/ritikraj27/audiobook-studio)
+`2025–2026 · Python · FastAPI · Kokoro TTS · ONNX · Node.js · spaCy · ffmpeg`
+
+Fully offline **PDF-to-Audiobook desktop web app** powered by Kokoro TTS ONNX engine, optimized for MacBook Air M4 with CoreML-accelerated INT8 quantized inference (~80MB model). FastAPI backend + Vite frontend with multi-voice support, TTS caching, and batch processing — zero cloud dependency.
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![Kokoro TTS](https://img.shields.io/badge/Kokoro%20TTS-412991?style=flat-square)
+![ONNX INT8](https://img.shields.io/badge/ONNX%20INT8-005CED?style=flat-square)
+![spaCy](https://img.shields.io/badge/spaCy-09a3d5?style=flat-square)
+![Apple Silicon](https://img.shields.io/badge/Apple%20Silicon-000000?style=flat-square&logo=apple&logoColor=white)
+![CoreML](https://img.shields.io/badge/CoreML-0071e3?style=flat-square)
+![ffmpeg](https://img.shields.io/badge/ffmpeg-007808?style=flat-square)
+
+> **🎯 100+ sentences/min · INT8 quantized · fully offline · M4 CoreML accelerated**
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-%23121011?style=flat-square&logo=github&logoColor=white)](https://github.com/ritikraj27/audiobook-studio)
+
+</td>
+<td width="50%" valign="top" align="left">
+
+### [📊 Customer Segmentation using Clustering](https://github.com/ritikraj27/Customer-Segmentation-using-Clustering)
+`2025 · Python · scikit-learn · K-Means · Hierarchical · DBSCAN · Matplotlib · Seaborn`
+
+Unsupervised ML pipeline segmenting customers from the Mall Customers Dataset using **K-Means, Hierarchical Clustering, and DBSCAN**. Applied StandardScaler preprocessing, Elbow Method + Silhouette Score for optimal K selection, and generated comprehensive 2D/3D cluster visualizations with business-context interpretation.
+
+![K-Means](https://img.shields.io/badge/K--Means-0077b6?style=flat-square)
+![Hierarchical](https://img.shields.io/badge/Hierarchical-3a7d44?style=flat-square)
+![DBSCAN](https://img.shields.io/badge/DBSCAN-e63946?style=flat-square)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
+
+> **🎯 3 algorithms compared · Silhouette + Davies-Bouldin evaluation · fully unsupervised**
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-%23121011?style=flat-square&logo=github&logoColor=white)](https://github.com/ritikraj27/Customer-Segmentation-using-Clustering)
+
+</td>
+</tr>
+
+<!-- ROW 3 -->
+<tr>
+<td width="50%" valign="top" align="left">
+
+### [📈 Time Series Sales Forecasting — ARIMA & LSTM](https://github.com/ritikraj27/Time-Series-Analysis---Sales-Stock-Price-Forecasting)
 `Feb 2026 · Python · LSTM · ARIMA · NumPy · Pandas · Matplotlib`
 
 Compared classical ARIMA and deep learning LSTM models on a **60-month sales dataset**. LSTM outperformed ARIMA achieving RMSE of 8.92 and R² of 0.92, significantly improving business planning accuracy.
@@ -176,10 +223,12 @@ Compared classical ARIMA and deep learning LSTM models on a **60-month sales dat
 
 > **🎯 R² 0.92 · RMSE 8.92 · 60-month dataset · ARIMA vs LSTM**
 
+[![View Repo](https://img.shields.io/badge/View%20Repo-%23121011?style=flat-square&logo=github&logoColor=white)](https://github.com/ritikraj27/Time-Series-Analysis---Sales-Stock-Price-Forecasting)
+
 </td>
 <td width="50%" valign="top" align="left">
 
-### 👗 Fashion Image Classification — CNN
+### [👗 Fashion Image Classification — CNN](https://github.com/ritikraj27/Image-Classification-using-CNN)
 `Feb 2026 · Python · TensorFlow · CNN · Fashion-MNIST · Batch Normalization · Dropout`
 
 Built a CNN model achieving **92.34% test accuracy** on the Fashion-MNIST dataset. Applied batch normalization, dropout, and data augmentation to improve generalization and reduce overfitting.
@@ -191,14 +240,16 @@ Built a CNN model achieving **92.34% test accuracy** on the Fashion-MNIST datase
 
 > **🎯 92.34% test accuracy · Fashion-MNIST · Data Augmentation**
 
+[![View Repo](https://img.shields.io/badge/View%20Repo-%23121011?style=flat-square&logo=github&logoColor=white)](https://github.com/ritikraj27/Image-Classification-using-CNN)
+
 </td>
 </tr>
 
-<!-- ROW 3 -->
+<!-- ROW 4 -->
 <tr>
 <td width="50%" valign="top" align="left">
 
-### 💳 Credit Card Fraud Detection
+### [💳 Credit Card Fraud Detection](https://github.com/ritikraj27/credit_card_fraud_svm)
 `2024 · XGBoost · scikit-learn · SMOTE · Pandas · Optuna`
 
 End-to-end ML pipeline on **100K transactions** — EDA, SMOTE class balancing, XGBoost with Optuna hyperparameter tuning. Full ROC / PR evaluation. Deployed as REST API with real-time scoring.
@@ -211,10 +262,12 @@ End-to-end ML pipeline on **100K transactions** — EDA, SMOTE class balancing, 
 
 > **🎯 93.6% recall · $640K losses prevented**
 
+[![View Repo](https://img.shields.io/badge/View%20Repo-%23121011?style=flat-square&logo=github&logoColor=white)](https://github.com/ritikraj27/credit_card_fraud_svm)
+
 </td>
 <td width="50%" valign="top" align="left">
 
-### 🎓 Student Performance Prediction — ANN
+### [🎓 Student Performance Prediction — ANN](https://github.com/ritikraj27/Student-Performance-Prediction-using-ANN)
 `Feb 2026 · Python · ANN · scikit-learn · Pandas · NumPy`
 
 Developed ANN **regression and classification** dual-models achieving R² of 0.87 and 87% classification accuracy. Identified key academic performance indicators for early-risk detection of at-risk students.
@@ -226,14 +279,16 @@ Developed ANN **regression and classification** dual-models achieving R² of 0.8
 
 > **🎯 R² 0.87 · 87% accuracy · Early risk detection · ANN dual-model**
 
+[![View Repo](https://img.shields.io/badge/View%20Repo-%23121011?style=flat-square&logo=github&logoColor=white)](https://github.com/ritikraj27/Student-Performance-Prediction-using-ANN)
+
 </td>
 </tr>
 
-<!-- ROW 4 -->
+<!-- ROW 5 -->
 <tr>
 <td width="50%" valign="top" align="left">
 
-### ❤️ Heart Disease Prediction — Logistic Regression
+### [❤️ Heart Disease Prediction — Logistic Regression](https://github.com/ritikraj27/Logistic-Regression-Project---Heart-Disease-Prediction)
 `Jan 2026 · Python · Logistic Regression · scikit-learn · Pandas · ROC-AUC · EDA`
 
 Logistic Regression classifier on **1,000 patient records with 13 medical features**. Applied median imputation, feature engineering (age_group, high_chol, high_bp), and feature scaling. Identified chest pain type, exercise-induced angina, and ST depression as strongest predictors. Clinical-ready with high ROC-AUC and balanced precision-recall.
@@ -246,10 +301,12 @@ Logistic Regression classifier on **1,000 patient records with 13 medical featur
 
 > **🎯 1,000 patients · 13 features · High ROC-AUC · Clinical-ready**
 
+[![View Repo](https://img.shields.io/badge/View%20Repo-%23121011?style=flat-square&logo=github&logoColor=white)](https://github.com/ritikraj27/Logistic-Regression-Project---Heart-Disease-Prediction)
+
 </td>
 <td width="50%" valign="top" align="left">
 
-### 👁️ CV Multi-Worker Productivity Monitor
+### [👁️ CV Multi-Worker Productivity Monitor](https://github.com/ritikraj27/CV-Multi-Worker-Productivity-Monitor)
 `2024 · OpenCV · MediaPipe · NumPy · Python`
 
 Real-time **4K CCTV pipeline** tracking 12 simultaneous workers using MediaPipe 21-joint hand landmark detection. Custom productivity scoring algorithm at 25 FPS.
@@ -261,14 +318,16 @@ Real-time **4K CCTV pipeline** tracking 12 simultaneous workers using MediaPipe 
 
 > **🎯 25 FPS · 12 workers · 65% avg productivity surfaced**
 
+[![View Repo](https://img.shields.io/badge/View%20Repo-%23121011?style=flat-square&logo=github&logoColor=white)](https://github.com/ritikraj27/CV-Multi-Worker-Productivity-Monitor)
+
 </td>
 </tr>
 
-<!-- ROW 5 -->
+<!-- ROW 6 -->
 <tr>
 <td width="50%" valign="top" align="left">
 
-### 🏭 Manufacturing Failure Prediction
+### [🏭 Manufacturing Failure Prediction](https://github.com/ritikraj27/Manufacturing-Failure-Prediction)
 `2024 · scikit-learn · Random Forest · SVM · KNN · SHAP`
 
 Benchmarked **5 ML classifiers** on 10K sensor records to find safe temperature & RPM thresholds. SHAP-based feature importance for full interpretability.
@@ -281,10 +340,12 @@ Benchmarked **5 ML classifiers** on 10K sensor records to find safe temperature 
 
 > **🎯 ~99% classification accuracy**
 
+[![View Repo](https://img.shields.io/badge/View%20Repo-%23121011?style=flat-square&logo=github&logoColor=white)](https://github.com/ritikraj27/Manufacturing-Failure-Prediction)
+
 </td>
 <td width="50%" valign="top" align="left">
 
-### ✋ HandGestureAI — Real-time HCI
+### [✋ HandGestureAI — Real-time HCI](https://github.com/ritikraj27/gesture-control)
 `2024 · MediaPipe · CNN · OpenCV · Python`
 
 Real-time gesture recognition via **MediaPipe + CNN** for contactless HCI — maps live hand gestures to system-level actions with sub-50ms latency.
@@ -296,10 +357,13 @@ Real-time gesture recognition via **MediaPipe + CNN** for contactless HCI — ma
 
 > **🎯 Real-time · sub-50ms latency**
 
+[![View Repo](https://img.shields.io/badge/View%20Repo-%23121011?style=flat-square&logo=github&logoColor=white)](https://github.com/ritikraj27/gesture-control)
+
 </td>
 </tr>
 
 </table>
+</div>
 </div>
 
 ---
