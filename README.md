@@ -53,7 +53,7 @@ If you're building something ambitious in AI, ML, or intelligent systems — and
 
 🏆 &nbsp; **GATE 2025** &nbsp;—&nbsp; 95.9 Percentile &nbsp;·&nbsp; Top **4.1%** Nationally
 
-🔭 &nbsp; **Secretary of Technology**, IIT Kharagpur &nbsp;·&nbsp; Leading 12-member ML team
+🔭 &nbsp; **Secretary of Technology**, Pt. Madan Mohan Malviya Hall of Residence, IIT Kharagpur &nbsp;·&nbsp; Leading 12-member ML team
 
 📍 &nbsp; Kharagpur, West Bengal, India
 
