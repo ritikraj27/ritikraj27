@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090c10,40:003566,80:0077b6,100:00b4d8&height=200&section=header&text=RITIK%20RAJ&fontSize=72&fontColor=caf0f8&animation=fadeIn&fontAlignY=45"/>
 
 <!-- ✅ TYPING SVG — plain ASCII ONLY, removed the broken line -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2600&pause=800&color=00B4D8&center=true&vCenter=true&width=820&lines=ML+Engineer+%7C+AI+%26+LLM+Engineer+%7C+IIT+Kharagpur;Building+Nexon+--+Agentic+AI+Operating+System;RAG+%7C+LoRA+Fine-Tuning+%7C+Computer+Vision+%7C+Time+Series;GATE+2025+--+95.9+Percentile+%7C+Top+4.1%25+Nationally;Industrial+Engineering+%26+Management+%7C+IIT+KGP;Turning+Raw+Data+into+Production-Grade+AI+Systems" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&duration=2600&pause=800&color=00B4D8&center=true&vCenter=true&width=900&lines=ML+Engineer+%7C+AI+%26+LLM+Engineer+%7C+Data+Analyst;M.Tech+%7C+Industrial+Engineering+%26+Management+%7C+IIT+Kharagpur;B.Tech+%7C+Mechanical+Engineering+%7C+Bronze+Medallist;GATE+2025+--+95.9+Percentile+%7C+Top+4.1%25+Nationally;Prompt+Engineer+%7C+Vibe+Coder+%7C+Debugs+at+2AM+with+Coffee;Turning+Raw+Data+into+Production-Grade+AI+Systems" alt="Typing SVG"/>
 
 <br/><br/>
 
@@ -46,7 +46,9 @@ If you're building something ambitious in AI, ML, or intelligent systems — and
 
 <br/>
 
-🎓 &nbsp; **M.Tech in Industrial Engineering and Management &nbsp;|&nbsp; IIT Kharagpur**
+🥉 &nbsp; **B.Tech &nbsp;|&nbsp; Mechanical Engineering &nbsp;|&nbsp; Bronze Medallist**
+
+🎓 &nbsp; **M.Tech &nbsp;|&nbsp; Industrial Engineering and Management &nbsp;|&nbsp; IIT Kharagpur**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CGPA: **8.58 / 10**
 
 🏆 &nbsp; **GATE 2025** &nbsp;—&nbsp; 95.9 Percentile &nbsp;·&nbsp; Top **4.1%** Nationally
