@@ -3,8 +3,8 @@
 <!-- ✅ HEADER — waving, confirmed working -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090c10,40:003566,80:0077b6,100:00b4d8&height=200&section=header&text=RITIK%20RAJ&fontSize=72&fontColor=caf0f8&animation=fadeIn&fontAlignY=45"/>
 
-<!-- ✅ TYPING SVG — plain ASCII ONLY, zero emoji, zero special unicode -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2600&pause=800&color=00B4D8&center=true&vCenter=true&width=820&lines=ML+Engineer+%7C+AI+%26+LLM+Engineer+%7C+IIT+Kharagpur;Building+Nexon+--+Agentic+AI+Operating+System;RAG+%7C+LoRA+Fine-Tuning+%7C+Computer+Vision+%7C+Time+Series;GATE+2025+--+95.9+Percentile+%7C+Top+4.1%25+Nationally;93.6%25+Fraud+Recall+%7C+91.1%25+RAG+Accuracy+%7C+R2+0.92;Turning+Raw+Data+into+Production-Grade+AI+Systems" alt="Typing SVG"/>
+<!-- ✅ TYPING SVG — plain ASCII ONLY, removed the broken line -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2600&pause=800&color=00B4D8&center=true&vCenter=true&width=820&lines=ML+Engineer+%7C+AI+%26+LLM+Engineer+%7C+IIT+Kharagpur;Building+Nexon+--+Agentic+AI+Operating+System;RAG+%7C+LoRA+Fine-Tuning+%7C+Computer+Vision+%7C+Time+Series;GATE+2025+--+95.9+Percentile+%7C+Top+4.1%25+Nationally;Industrial+Engineering+%26+Management+%7C+IIT+KGP;Turning+Raw+Data+into+Production-Grade+AI+Systems" alt="Typing SVG"/>
 
 <br/><br/>
 
@@ -44,61 +44,37 @@ If you're building something ambitious in AI, ML, or intelligent systems — and
 
 ## ⚡ About Me
 
+<br/>
+
+🎓 &nbsp; **M.Tech in Industrial Engineering and Management &nbsp;|&nbsp; IIT Kharagpur**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CGPA: **8.58 / 10**
+
+🏆 &nbsp; **GATE 2025** &nbsp;—&nbsp; 95.9 Percentile &nbsp;·&nbsp; Top **4.1%** Nationally
+
+🔭 &nbsp; **Secretary of Technology**, IIT Kharagpur &nbsp;·&nbsp; Leading 12-member ML team
+
+📍 &nbsp; Kharagpur, West Bengal, India
+
+🤖 &nbsp; Currently building **Nexon** — Agentic AI OS with 10 parallel agents, multimodal perception, and fully offline LLM via Ollama
+
+🌱 &nbsp; Currently learning: **LangGraph · AutoGen · Agentic Architectures**
+
+💬 &nbsp; Ask me about: **LLMs · RAG · PyTorch · FastAPI · OpenCV · Time Series**
+
+<br/>
+
+<!-- ✅ SKILLICONS — skills.thijs.me, GitHub-safe, animated hover icons -->
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════════╗
-║          R I T I K   R A J   //   ML  x  AI  ENGINEER                  ║
-╠══════════════════════════════════════════════════════════════════════════╣
-║                                                                          ║
-║   Education  :  M.Tech @ IIT Kharagpur           CGPA : 8.58 / 10      ║
-║   GATE 2025  :  95.9 Percentile                  Top  : 4.1% Nationally ║
-║   Location   :  Kharagpur, West Bengal, India                            ║
-║   Leadership :  Secretary of Technology, IIT KGP  |  12-member ML team  ║
-║                                                                          ║
-╠══════════════════════════════════════════════════════════════════════════╣
-║                                                                          ║
-║   BUILDING   -->  Nexon - Agentic AI Operating System  [2025-2026]      ║
-║               |                                                          ║
-║               |-- 10 specialized parallel agents                         ║
-║               |   ( email, calendar, files, web, system control )        ║
-║               |                                                          ║
-║               |-- Multimodal Perception Layer                            ║
-║               |   ( facial emotion + gesture + voice stress analysis )   ║
-║               |                                                          ║
-║               |-- Emotion-aware LLM prompting via Ollama                 ║
-║               |-- On-device biometric face authentication                ║
-║               `-- Whisper ASR  |  Fully offline  |  Zero cloud           ║
-║                                                                          ║
-╠══════════════════════════════════════════════════════════════════════════╣
-║                                                                          ║
-║   EXPERTISE                                                              ║
-║   LLMs       :  LoRA / QLoRA  |  HuggingFace  |  Ollama  |  Whisper    ║
-║   RAG        :  LangChain  |  FAISS  |  sentence-transformers            ║
-║   Vision     :  OpenCV  |  MediaPipe  |  YOLO v8  |  PyTorch            ║
-║   ML / Data  :  XGBoost  |  scikit-learn  |  TensorFlow  |  Pandas      ║
-║   Time Series:  LSTM  |  ARIMA  |  NumPy                                ║
-║   Deploy     :  FastAPI  |  Docker  |  Electron  |  SQLite               ║
-║                                                                          ║
-╠══════════════════════════════════════════════════════════════════════════╣
-║                                                                          ║
-║   LEARNING NOW  -->  LangGraph  |  AutoGen  |  Agentic Architectures    ║
-║                                                                          ║
-╚══════════════════════════════════════════════════════════════════════════╝
-```
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,docker,electron,mongodb,postgres,sqlite,react,git,github,linux,bash,matlab,r&theme=dark&perline=9"/>
+</a>
 
-</div>
+<br/><br/>
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-Expert-3670A0?style=flat-square&logo=python&logoColor=ffdd54&labelColor=0a1628)
-![PyTorch](https://img.shields.io/badge/PyTorch-Expert-EE4C2C?style=flat-square&logo=pytorch&logoColor=white&labelColor=0a1628)
-![RAG](https://img.shields.io/badge/RAG%20Pipelines-Expert-0077b6?style=flat-square&labelColor=0a1628)
-![LangChain](https://img.shields.io/badge/LangChain-Advanced-1C3C3C?style=flat-square&labelColor=0a1628)
-![FastAPI](https://img.shields.io/badge/FastAPI-Advanced-005571?style=flat-square&logo=fastapi&labelColor=0a1628)
-![OpenCV](https://img.shields.io/badge/OpenCV-Advanced-27338e?style=flat-square&logo=opencv&logoColor=white&labelColor=0a1628)
-![LoRA](https://img.shields.io/badge/LoRA%2FQLoRA-Advanced-ff6b35?style=flat-square&labelColor=0a1628)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-Advanced-0F9D58?style=flat-square&logo=google&logoColor=white&labelColor=0a1628)
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=huggingface,vscode,nodejs,mysql,redis&theme=dark&perline=9"/>
+</a>
 
 </div>
 
@@ -210,7 +186,7 @@ End-to-end ML pipeline on **100K transactions** — EDA, SMOTE class balancing, 
 ### 🎓 Student Performance Prediction — ANN
 `Feb 2026 · Python · ANN · scikit-learn · Pandas · NumPy`
 
-Developed ANN **regression and classification** dual-models achieving R² of 0.87 and 87% classification accuracy. Identified key academic performance indicators to enable early-risk detection for at-risk students.
+Developed ANN **regression and classification** dual-models achieving R² of 0.87 and 87% classification accuracy. Identified key academic performance indicators for early-risk detection of at-risk students.
 
 ![ANN](https://img.shields.io/badge/ANN-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
@@ -229,7 +205,7 @@ Developed ANN **regression and classification** dual-models achieving R² of 0.8
 ### ❤️ Heart Disease Prediction — Logistic Regression
 `Jan 2026 · Python · Logistic Regression · scikit-learn · Pandas · ROC-AUC · EDA`
 
-Logistic Regression classifier on **1,000 patient records with 13 medical features**. Applied median imputation, feature engineering (age_group, high_chol, high_bp), and feature scaling. Identified chest pain type, exercise-induced angina, and ST depression as strongest predictors. High ROC-AUC with balanced precision-recall makes it clinical-ready.
+Logistic Regression classifier on **1,000 patient records with 13 medical features**. Applied median imputation, feature engineering (age_group, high_chol, high_bp), and feature scaling. Identified chest pain type, exercise-induced angina, and ST depression as strongest predictors. Clinical-ready with high ROC-AUC and balanced precision-recall.
 
 ![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-0077b6?style=flat-square)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
