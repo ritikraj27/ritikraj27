@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090c10,40:003566,80:0077b6,100:00b4d8&height=200&section=header&text=RITIK%20RAJ&fontSize=72&fontColor=caf0f8&animation=fadeIn&fontAlignY=45"/>
 
 <!-- ✅ TYPING SVG — plain ASCII ONLY, zero emoji, zero special unicode -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2600&pause=800&color=00B4D8&center=true&vCenter=true&width=820&lines=ML+Engineer+%7C+AI+%26+LLM+Engineer+%7C+IIT+Kharagpur;Building+Nexon+--+Agentic+AI+Operating+System;RAG+Pipelines+%7C+LoRA+Fine-Tuning+%7C+Computer+Vision;93.6%25+Fraud+Recall+%7C+91.1%25+RAG+Accuracy;GATE+2025+--+95.9+Percentile+%7C+Top+4.1%25+Nationally;Turning+Raw+Data+into+Production-Grade+AI+Systems" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2600&pause=800&color=00B4D8&center=true&vCenter=true&width=820&lines=ML+Engineer+%7C+AI+%26+LLM+Engineer+%7C+IIT+Kharagpur;Building+Nexon+--+Agentic+AI+Operating+System;RAG+%7C+LoRA+Fine-Tuning+%7C+Computer+Vision+%7C+Time+Series;GATE+2025+--+95.9+Percentile+%7C+Top+4.1%25+Nationally;93.6%25+Fraud+Recall+%7C+91.1%25+RAG+Accuracy+%7C+R2+0.92;Turning+Raw+Data+into+Production-Grade+AI+Systems" alt="Typing SVG"/>
 
 <br/><br/>
 
@@ -13,7 +13,7 @@
 
 <br/><br/>
 
-<!-- ✅ SOCIAL BADGES — shields.io always works -->
+<!-- ✅ SOCIAL BADGES -->
 <a href="https://linkedin.com/in/ritikraj27"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 &nbsp;
 <a href="https://github.com/ritikraj27"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -28,6 +28,20 @@
 
 ---
 
+## 🌍 Summary
+
+I'm **Ritik Raj** — an M.Tech student at **IIT Kharagpur** (CGPA 8.58) working at the intersection of Machine Learning, AI systems, and Industrial Engineering. I don't just build models; I build things that *work in the real world* and solve problems people actually have.
+
+My flagship project, **Nexon**, is an intent-driven Agentic AI Operating System I've been architecting from scratch — a fully offline, multimodal desktop assistant with 10 parallel specialized agents that understand what you *mean*, not just what you type. It sees your face, hears your voice stress, reads your gestures, and adapts its responses accordingly. No cloud. No subscription. Just intelligence running on your machine.
+
+Beyond Nexon, my portfolio spans the full breadth of applied ML: I've prevented **$640K in fraud losses** (93.6% recall), built automotive RAG systems accurate to **91.1%** across 100K records and 45 OEMs, forecasted 60-month sales with an LSTM achieving **R² of 0.92**, classified fashion images at **92.34% accuracy**, predicted student academic risk with **87% accuracy**, and built clinical-grade heart disease classifiers on 1,000 patient records — all the way to real-time computer vision pipelines tracking 12 workers simultaneously at 25 FPS.
+
+I hold a **GATE 2025 score in the top 4.1%** nationally, serve as **Secretary of Technology at IIT Kharagpur** leading a 12-member ML team, and I'm obsessed with the next frontier: agentic architectures, LangGraph, and systems where AI doesn't just answer — it *acts*.
+
+If you're building something ambitious in AI, ML, or intelligent systems — and you need someone who ships, **let's talk.**
+
+---
+
 ## ⚡ About Me
 
 <div align="center">
@@ -39,8 +53,8 @@
 ║                                                                          ║
 ║   Education  :  M.Tech @ IIT Kharagpur           CGPA : 8.58 / 10      ║
 ║   GATE 2025  :  95.9 Percentile                  Top  : 4.1% Nationally ║
-║   Role       :  Secretary of Technology, IIT KGP  Team : 12-member ML   ║
 ║   Location   :  Kharagpur, West Bengal, India                            ║
+║   Leadership :  Secretary of Technology, IIT KGP  |  12-member ML team  ║
 ║                                                                          ║
 ╠══════════════════════════════════════════════════════════════════════════╣
 ║                                                                          ║
@@ -60,18 +74,11 @@
 ║                                                                          ║
 ║   EXPERTISE                                                              ║
 ║   LLMs       :  LoRA / QLoRA  |  HuggingFace  |  Ollama  |  Whisper    ║
-║   RAG         :  LangChain  |  FAISS  |  sentence-transformers           ║
-║   Vision      :  OpenCV  |  MediaPipe  |  YOLO v8  |  PyTorch           ║
-║   ML/Data     :  XGBoost  |  scikit-learn  |  TensorFlow  |  Pandas     ║
-║   Deploy      :  FastAPI  |  Docker  |  Electron  |  SQLite              ║
-║                                                                          ║
-╠══════════════════════════════════════════════════════════════════════════╣
-║                                                                          ║
-║   RESULTS                                                                ║
-║   Fraud Recall      93.6%   -->  $640K losses prevented                  ║
-║   RAG Accuracy      91.1%   -->  100K records, 45 OEMs                   ║
-║   GPU Cost Down     75%     -->  via LoRA / QLoRA fine-tuning            ║
-║   Task Automation   65%     -->  via Nexon agentic OS                    ║
+║   RAG        :  LangChain  |  FAISS  |  sentence-transformers            ║
+║   Vision     :  OpenCV  |  MediaPipe  |  YOLO v8  |  PyTorch            ║
+║   ML / Data  :  XGBoost  |  scikit-learn  |  TensorFlow  |  Pandas      ║
+║   Time Series:  LSTM  |  ARIMA  |  NumPy                                ║
+║   Deploy     :  FastAPI  |  Docker  |  Electron  |  SQLite               ║
 ║                                                                          ║
 ╠══════════════════════════════════════════════════════════════════════════╣
 ║                                                                          ║
@@ -101,6 +108,8 @@
 
 <div align="center">
 <table>
+
+<!-- ROW 1 -->
 <tr>
 <td width="50%" valign="top" align="left">
 
@@ -142,6 +151,43 @@ Hybrid RAG & LLM pipeline for automotive fault diagnosis across **100K records �
 
 </td>
 </tr>
+
+<!-- ROW 2 -->
+<tr>
+<td width="50%" valign="top" align="left">
+
+### 📈 Time Series Sales Forecasting — ARIMA & LSTM
+`Feb 2026 · Python · LSTM · ARIMA · NumPy · Pandas · Matplotlib`
+
+Compared classical ARIMA and deep learning LSTM models on a **60-month sales dataset**. LSTM outperformed ARIMA achieving RMSE of 8.92 and R² of 0.92, significantly improving business planning accuracy.
+
+![LSTM](https://img.shields.io/badge/LSTM-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![ARIMA](https://img.shields.io/badge/ARIMA-0077b6?style=flat-square)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
+
+> **🎯 R² 0.92 · RMSE 8.92 · 60-month dataset · ARIMA vs LSTM**
+
+</td>
+<td width="50%" valign="top" align="left">
+
+### 👗 Fashion Image Classification — CNN
+`Feb 2026 · Python · TensorFlow · CNN · Fashion-MNIST · Batch Normalization · Dropout`
+
+Built a CNN model achieving **92.34% test accuracy** on the Fashion-MNIST dataset. Applied batch normalization, dropout, and data augmentation to improve generalization and reduce overfitting.
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Fashion-MNIST](https://img.shields.io/badge/Fashion--MNIST-444?style=flat-square)
+![Dropout](https://img.shields.io/badge/Batch%20Norm%20%2B%20Dropout-3670A0?style=flat-square)
+
+> **🎯 92.34% test accuracy · Fashion-MNIST · Data Augmentation**
+
+</td>
+</tr>
+
+<!-- ROW 3 -->
 <tr>
 <td width="50%" valign="top" align="left">
 
@@ -161,6 +207,41 @@ End-to-end ML pipeline on **100K transactions** — EDA, SMOTE class balancing, 
 </td>
 <td width="50%" valign="top" align="left">
 
+### 🎓 Student Performance Prediction — ANN
+`Feb 2026 · Python · ANN · scikit-learn · Pandas · NumPy`
+
+Developed ANN **regression and classification** dual-models achieving R² of 0.87 and 87% classification accuracy. Identified key academic performance indicators to enable early-risk detection for at-risk students.
+
+![ANN](https://img.shields.io/badge/ANN-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+> **🎯 R² 0.87 · 87% accuracy · Early risk detection · ANN dual-model**
+
+</td>
+</tr>
+
+<!-- ROW 4 -->
+<tr>
+<td width="50%" valign="top" align="left">
+
+### ❤️ Heart Disease Prediction — Logistic Regression
+`Jan 2026 · Python · Logistic Regression · scikit-learn · Pandas · ROC-AUC · EDA`
+
+Logistic Regression classifier on **1,000 patient records with 13 medical features**. Applied median imputation, feature engineering (age_group, high_chol, high_bp), and feature scaling. Identified chest pain type, exercise-induced angina, and ST depression as strongest predictors. High ROC-AUC with balanced precision-recall makes it clinical-ready.
+
+![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-0077b6?style=flat-square)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![ROC-AUC](https://img.shields.io/badge/ROC--AUC-3a7d44?style=flat-square)
+![EDA](https://img.shields.io/badge/EDA-FF6B35?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+> **🎯 1,000 patients · 13 features · High ROC-AUC · Clinical-ready**
+
+</td>
+<td width="50%" valign="top" align="left">
+
 ### 👁️ CV Multi-Worker Productivity Monitor
 `2024 · OpenCV · MediaPipe · NumPy · Python`
 
@@ -175,18 +256,21 @@ Real-time **4K CCTV pipeline** tracking 12 simultaneous workers using MediaPipe 
 
 </td>
 </tr>
+
+<!-- ROW 5 -->
 <tr>
 <td width="50%" valign="top" align="left">
 
 ### 🏭 Manufacturing Failure Prediction
 `2024 · scikit-learn · Random Forest · SVM · KNN · SHAP`
 
-Benchmarked **5 ML classifiers** on 10K sensor records to find safe temperature & RPM thresholds. SHAP-based feature importance for interpretability.
+Benchmarked **5 ML classifiers** on 10K sensor records to find safe temperature & RPM thresholds. SHAP-based feature importance for full interpretability.
 
 ![Random Forest](https://img.shields.io/badge/Random%20Forest-3a7d44?style=flat-square)
 ![SVM](https://img.shields.io/badge/SVM-e63946?style=flat-square)
 ![KNN](https://img.shields.io/badge/KNN-457b9d?style=flat-square)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-FF6B35?style=flat-square)
 
 > **🎯 ~99% classification accuracy**
 
@@ -207,6 +291,7 @@ Real-time gesture recognition via **MediaPipe + CNN** for contactless HCI — ma
 
 </td>
 </tr>
+
 </table>
 </div>
 
@@ -248,6 +333,16 @@ Real-time gesture recognition via **MediaPipe + CNN** for contactless HCI — ma
 ![YOLO v8](https://img.shields.io/badge/YOLO%20v8-00FFFF?style=for-the-badge)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0F9D58?style=for-the-badge&logo=google&logoColor=white)
 
+**Data, Time Series & Visualization**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![ARIMA](https://img.shields.io/badge/ARIMA-0077b6?style=for-the-badge)
+![LSTM](https://img.shields.io/badge/LSTM-EE4C2C?style=for-the-badge)
+
 **Databases & Deployment**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
@@ -281,20 +376,6 @@ Real-time gesture recognition via **MediaPipe + CNN** for contactless HCI — ma
 <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=ritikraj27&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
-
----
-
-## 🌍 Summary
-
-I'm **Ritik Raj** — an M.Tech student at **IIT Kharagpur** sitting at the intersection of Machine Learning, AI systems, and Industrial Engineering. I don't just build models; I build things that *work in the real world* and solve problems people actually have.
-
-My flagship project, **Nexon**, is an intent-driven Agentic AI Operating System I've been architecting from scratch — a fully offline, multimodal desktop assistant with 10 parallel specialized agents that understand what you mean, not just what you type. It sees your face, hears your voice stress, reads your gestures, and adapts its responses accordingly. No cloud. No subscription. Just intelligence running on your machine.
-
-Beyond Nexon, I've shipped production-grade pipelines that prevented **$640K in fraud losses** with 93.6% recall, built automotive diagnostic RAG systems accurate to **91.1%** across 100K records and 45 OEMs, and engineered real-time computer vision pipelines tracking 12 workers simultaneously at 25 FPS. Every number in my portfolio is a result I can defend.
-
-I hold a **GATE 2025 score in the top 4.1%** nationally, serve as **Secretary of Technology at IIT Kharagpur** leading a 12-member ML team, and I'm obsessed with the next frontier: agentic architectures, LangGraph, and systems where AI doesn't just answer — it *acts*.
-
-If you're building something ambitious in AI, ML, or intelligent systems — and you need someone who ships, **let's talk.**
 
 ---
 
