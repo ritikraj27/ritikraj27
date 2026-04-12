@@ -46,14 +46,14 @@ If you're building something ambitious in AI, ML, or intelligent systems — and
 
 <br/>
 
-🥉 &nbsp; **B.Tech &nbsp;|&nbsp; Mechanical Engineering &nbsp;|&nbsp; Bronze Medallist**
-
 🎓 &nbsp; **M.Tech &nbsp;|&nbsp; Industrial Engineering and Management &nbsp;|&nbsp; IIT Kharagpur**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CGPA: **8.58 / 10**
 
+🥉 &nbsp; **B.Tech &nbsp;|&nbsp; Mechanical Engineering &nbsp;|&nbsp; Narula Institute of Technology, Agarpara** |&nbsp; Bronze Medallist**
+
 🏆 &nbsp; **GATE 2025** &nbsp;—&nbsp; 95.9 Percentile &nbsp;·&nbsp; Top **4.1%** Nationally
 
-🔭 &nbsp; **Secretary of Technology**, Pt. Madan Mohan Malviya Hall of Residence, IIT Kharagpur &nbsp;·&nbsp;
+🔭 &nbsp; **Secretary of Technology**, Pt. Madan Mohan Malviya Hall of Residence, IIT Kharagpur &nbsp;
 
 📍 &nbsp; Kharagpur, West Bengal, India
 
