@@ -388,7 +388,7 @@ Real-time gesture recognition via **MediaPipe + CNN** for contactless HCI — ma
 
 <div align="center">
 
-<a href="[www.linkedin.com/in/ritikraj-iitkgp](https://www.linkedin.com/in/ritikrajiitkgp/)">
+<a href="https://www.linkedin.com/in/ritikraj-iitkgp/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
